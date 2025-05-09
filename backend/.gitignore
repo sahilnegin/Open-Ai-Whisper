@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+.env
+venv/
+*.log
+
+# Jupyter / Colab
+.ipynb_checkpoints/
